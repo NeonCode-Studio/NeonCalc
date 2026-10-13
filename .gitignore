@@ -1,0 +1,5 @@
+# Compiled binaries
+/main
+
+# VS Code workspace
+.vscode/
