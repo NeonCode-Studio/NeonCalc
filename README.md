@@ -1,6 +1,8 @@
 # Neoncode Calc
 
-Neoncode Calc is a command-line calculator written in C++. It provides core arithmetic operations designed for integration into terminal environments or educational purposes.
+Neoncode Calc is a command-line calculator written in C++. It provides core arithmetic operations designed for integration into terminal environments or educational purposes.Everyone can use it without limits because it is open source
+neoncode could be better in the future
+im learning right now
 
 ## Requirements
 

@@ -45,7 +45,7 @@ int main() {
             cin>>a;
             cout<<"-=Podaj druga liczbe:";
             cin>>b;
-            cout<<"-==Iloraz twoich liczb to:"<<a/b<<endl;
+            cout<<"-==Iloraz twoich liczb to: "<<a/b<<endl;
         } else {
             cout<<"Prosze wybierz liczbe z listy!"<<endl;
         }
