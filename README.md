@@ -26,3 +26,7 @@ Run the compiled executable from the command line:
 ```
 
 Follow the on-screen prompts to perform calculations.
+
+##koniec
+
+to chyba koniec

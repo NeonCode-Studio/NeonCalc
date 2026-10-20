@@ -89,7 +89,7 @@ int main() {
         cin>>b;
         cout<<"-==Division of your two numbers is :"<<a/b<<endl;
     } else {
-        cout<<"Please pick a real number!"<<endl;
+        cout<<"-==!Please pick a real number!"<<endl;
     }
 } else {
     int a;//zmienne 
@@ -133,4 +133,4 @@ int main() {
     } else {
         cout<<"!!!!!!!!!!!!!!!!!!!!!!!!"<<endl;
     }
-} }
+} }//koniec
