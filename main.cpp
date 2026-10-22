@@ -5,6 +5,7 @@ int main() {
     cout<<"-===-NeonCalc v0.7-===-"<<endl;
     cout<<"-=Pick a language:write 1 if you want english"<<endl;
     cout<<"-=Wybierz język:napisz 2 jeżeli chcesz polski"<<endl;
+    cout<<"-=+-/*"<<endl;
     int laguage;
     cin>>laguage;
     if (laguage == 2){
