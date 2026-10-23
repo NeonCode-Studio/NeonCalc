@@ -31,5 +31,6 @@ Follow the on-screen prompts to perform calculations.
 
 to chyba koniec
 nie wiem co mam robić dalej 
+ucze sie dalej
 ---
 # NeonCode

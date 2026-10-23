@@ -63,16 +63,16 @@ int main() {
     cin>>wybor;
     if (wybor == 1) {
         cout<<"-===-Addition-===-"<<endl;
-        cout<<"-=Write first number:";
+        cout<<"-=Write first number: ";
         cin>>a;
-        cout<<"-=Write second number:";
+        cout<<"-=Write second number: ";
         cin>>b;
-        cout<<"-==Addition of this two numbers is:"<<a+b<<endl;
+        cout<<"-==Addition of this two numbers is: "<<a+b<<endl;
     } else if ( wybor == 2) {
         cout<<"-===-Subtraction-===-"<<endl;
-        cout<<"-=Write first number:";
+        cout<<"-=Write first number: ";
         cin>>a;
-        cout<<"-=Write second number:";
+        cout<<"-=Write second number: ";
         cin>>b;
         cout<<"-==Subtraction of this two numbers is: "<<a-b<<endl;
     } else if ( wybor == 3 ) {
@@ -134,4 +134,4 @@ int main() {
     } else {
         cout<<"!!!!!!!!!!!!!!!!!!!!!!!!"<<endl;
     }
-} }//koniec
+} }
